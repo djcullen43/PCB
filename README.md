@@ -17,5 +17,5 @@ The CNN model is composed of the following layers:
 - scikit-learn
 - matplotlib
 
-![Alt text](image8.png)
-![Alt text](image8.png)
+![Alt text](image_8.png)
+![Alt text](image_9.png)
